@@ -1,8 +1,18 @@
-# React + Vite
+# PLM CRS Grad
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the official github repo for the frontend of PLM CRS for Graduating Students.
 
-Currently, two official plugins are available:
+To copy this on your local machine, follow this steps:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Fork this repository
+2. Clone with HTTPS your forked copy to your local machine.
+
+To pull an updated copy from remote repository.
+
+1. Sync your forked repository to the main repository.
+2. Git pull changes from forked repository to your local.
+
+To push changes to remote repository
+
+1. Git push your changes to your forked remote copy.
+2. Create a merge request to the main remote repository.
